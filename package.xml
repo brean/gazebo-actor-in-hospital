@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>gazebo_actor_in_hospital</name>
+  <version>1.0.0</version>
+  <description>
+    Adds an actor to the AWS Robomaker Hospital World environment.
+  </description>
+  <license>Apache 2.0</license>
+  <author email="self@andreasbresser.de">Andreas Bresser</author>
+  <maintainer email="self@andreasbresser.de">Andreas Bresser</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>gazebo</exec_depend>
+  <exec_depend>gazebo_plugins</exec_depend>
+  <exec_depend>aws_robomaker_hospital_world</exec_depend>
+  
+</package>

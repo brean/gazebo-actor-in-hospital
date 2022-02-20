@@ -1,0 +1,5 @@
+<launch>
+  <include file="$(find gazebo_actor_in_hospital)/launch/hospital.launch">
+    <arg name="gui" default="true" />
+  </include>
+</launch>
