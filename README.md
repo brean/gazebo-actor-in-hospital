@@ -1,6 +1,8 @@
 # Gazebo Actor in Hospital
 Adds an actor inside the AWS Robomaker Hospital World environment on a static path
 
+The animation is far from perfect, so if it looks like [this video](docs/hospital_actor.mp4) its working as intended for now, **feel free to extend pull requests are very welcomed**!
+
 ## Installation
 1. Download and install the [aws-robomaker-hospital-world environment](https://github.com/aws-robotics/aws-robomaker-hospital-world).
 1. Clone this directory into your ROS-workspace
